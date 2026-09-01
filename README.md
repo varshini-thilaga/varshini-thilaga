@@ -27,7 +27,7 @@
 
 ### Developer Snapshot
 
-* 🚀 **Currently building**: Intelligent systems, disaster response robotics (*RubbleCrawler*), and multilingual AI assistants (*SECE AI Assistant*).
+* 🚀 **Currently building**: Intelligent systems, computer vision solutions (*Automatic Attendance Tracker*), and multilingual AI assistants (*SECE AI Assistant*).
 * 🧠 **Deep-diving into**: System design fundamentals, cloud-native architectures, and advanced DSA.
 * 🎯 **2026 goal**: Contribute to impactful open-source AI projects and build scalable full-stack products.
 * 💡 **Fun fact / Philosophy**: *"Curiosity → Experiment → Build → Learn → Repeat"* — I learn best by breaking, debugging, and building prototypes!
@@ -39,9 +39,9 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 RubbleCrawler</h3>
-      <p><i>Autonomous disaster rescue robot designed for hazardous environments & collapsed buildings.</i></p>
-      <p><b>Tech:</b> AI, Computer Vision, Thermal & CO₂ Sensors, Telemetry Dashboard</p>
+      <h3>📸 Automatic Attendance Tracker</h3>
+      <p><i>AI-powered automatic attendance tracking system that uses facial recognition technology to detect and recognize students and record their attendance automatically.</i></p>
+      <p><b>Tech:</b> Python, OpenCV, Face Recognition, Machine Learning, SQLite</p>
     </td>
     <td width="50%" valign="top">
       <h3>💬 SECE AI Assistant</h3>
