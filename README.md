@@ -77,25 +77,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a4d4-11eb-882d-e366e255be11.gif" width="100%" alt="Divider Line" />
 
-### GitHub Dashboard
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/varshini-thilaga/varshini-thilaga/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile Details" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/varshini-thilaga/varshini-thilaga/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Top Languages by Repo" />
-  <img src="https://raw.githubusercontent.com/varshini-thilaga/varshini-thilaga/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Top Languages by Commit" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/varshini-thilaga/varshini-thilaga/main/profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Stats" />
-  <img src="https://raw.githubusercontent.com/varshini-thilaga/varshini-thilaga/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Productive Time" />
-</p>
-
-<!-- LeetCode Problem Solving Card -->
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Varshini_CR?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
-</p>
-
 <!-- Contribution Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/varshini-thilaga/varshini-thilaga/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
@@ -115,6 +96,6 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/varshini-thilaga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/Varshini_CR/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="mailto:varshini.thilaga@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
